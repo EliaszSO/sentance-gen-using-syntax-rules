@@ -1,0 +1,7 @@
+[i: 3, seed: 3]  TV NP P NP
+[i: 3, seed: 3]  TV NP P NP
+[i: 5, seed: 3]  N PP 
+[i: 4, seed: 3]  PropN Det N 
+[i: 3, seed: 3]  TV NP P NP 
+[i: 5, seed: 3]  N PP 
+[i: 5, seed: 2]  Det N PP P NP P Det N V 
